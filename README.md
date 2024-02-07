@@ -25,7 +25,9 @@ Ofrecemos servicios personalizados, desde desarrollo de software hasta consultor
 **Dominio de Tecnologías de Vanguardia**
 - React
 - Node.js
-- Python
+- Php
+- Js
+- flutter
 
 ## Enfoque en la Experiencia del Usuario
 
@@ -61,7 +63,7 @@ Presentamos casos específicos que destacan el impacto positivo de nuestras solu
 
 **Conéctate con CODXtech**
 - [Sitio Web](https://www.codxtech.com)
-- Correo Electrónico: info@codxtech.com
+- Correo Electrónico: contacto.codxtech@gmail.com
 
 ## Preguntas y Respuestas
 
