@@ -1,9 +1,9 @@
-# Innovación Tecnológica con CODXtech: Desarrollo de Software y Sistemas Web de Vanguardia
+# Innovación Tecnológica con CODXTECH 🖥️
 
-## Bienvenidos a CODXtech
+## Bienvenidos a CODXTECH
 
 **¿Quiénes Somos?**
-CODXtech es una empresa dedicada al desarrollo de software y sistemas web, comprometida con la innovación y la excelencia tecnológica.
+CODXTECH es una empresa dedicada al desarrollo de software y sistemas web, comprometida con la innovación y la excelencia tecnológica.
 
 ## Nuestra Misión y Valores
 
