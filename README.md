@@ -23,11 +23,12 @@ Ofrecemos servicios personalizados, desde desarrollo de software hasta consultor
 ## Expertise Tecnológico
 
 **Dominio de Tecnologías de Vanguardia**
-- React
 - Node.js
+- Html5
 - Php
 - Js
-- flutter
+- Flutter
+- Wordpress
 
 ## Enfoque en la Experiencia del Usuario
 
